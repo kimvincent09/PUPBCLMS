@@ -1,0 +1,131 @@
+label, h1, h3{
+    color: white;
+}
+.ui{
+    margin-right: 300px;
+    border: solid;
+    background-color: black;
+}
+.maroon{
+    background-color: maroon;
+}
+.img-box{
+    display: flexbox;
+}
+.img{
+    width: 100px;
+    border: solid;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+
+ul.menu li{
+    color: white;
+    display: inline;
+}
+span .main{
+    color: white;
+    background-color: white;
+}
+.main{
+width: 100%;
+text-align: center;
+}
+ul.menu li a {
+    color: white;
+text-decoration: none;
+padding: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul.menu li a:hover{
+    color: red;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    top: 10px;
+}
+
+.form{
+  width: 100%;
+  padding-top: 100px;
+    text-align: center;
+}
+.form2{
+    margin-left: 250px;
+    padding: 30px;
+}
+.row{
+    background-color:maroon ;
+    padding: 0px 40px 10px 40px;
+  
+    text-align: center;
+}
+.space{
+    padding: 5px 20px 5px 0px;
+}
+.row2{
+    background-color:maroon ;
+    padding: 0px 40px 10px 40px;
+    width: 70%;
+    text-align: center;
+}
+
+
+.col{
+    margin: 0px 0px 10px 50px;
+}
+
+
+
+
+.delete{
+    text-decoration: none;
+    color: black;
+}
+.delete:hover{
+    color: red;
+}
+
+.input{
+margin-bottom: 10px;
+margin-right: 30px;
+}
+.book-form{
+  
+    margin: 50px 100px 10px 100px;
+    align-items: center;
+
+}
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5x 0px 15px 0px;
+}
+.success{
+    background-color: green;
+}
+.error{
+    background-color: red;
+}
+.button{
+    background-color:black;
+    color: white;
+    border-width: 1px;
+    cursor: pointer;
+    padding: 8px;
+    font-size: 15px;
+}
+label{
+    font-size: 20px;
+}
+.button:hover{
+    background-color: red;
+}
+.img-container{
+    width: 100px;
+    background-color: white;
+    border-radius: 100px;
+    align-items: center;
+    margin-top: 40px;
+}

@@ -1,0 +1,120 @@
+label, h1, h3{
+    color: white;
+}
+.form{
+    width: 100%;
+    padding-top: 100px;
+      text-align: center;
+  }
+ul.menu li{
+    color: white;
+    display: inline;
+}
+span .main{
+    color: white;
+    background-color: white;
+}
+ul.menu li a {
+    color: white;
+text-decoration: none;
+padding: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul.menu li a:hover{
+    color: red;
+}
+.space{
+    padding: 5px 20px 5px 0px;
+}
+label{
+    font-size: 20px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    top: 10px;
+}
+table thead tr th{
+
+    padding-right: 100px;
+    border: solid;
+    border-color: black;
+}
+
+
+.header{
+    text-align: center;
+}
+.row{
+    background-color:maroon ;
+    padding: 0px 40px 10px 40px;
+    text-align: center;
+}
+.col{
+    margin: 0px 0px 10px 50px;
+}
+
+ table thead tr th{
+    border: solid;
+    border-color: black;
+    background-color: white;
+    padding-left: 100px;
+}
+ table thead tr th, tbody tr td{
+    border: solid;
+    border-color: black;
+    background-color: white;
+    text-align: center;
+}
+
+
+.delete{
+    text-decoration: none;
+    color: black;
+}
+.delete:hover{
+    color: red;
+}
+
+.input{
+margin-bottom: 10px;
+margin-right: 30px;
+}
+.book-form{
+  
+    margin: 50px 100px 10px 100px;
+    align-items: center;
+
+}
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5x 0px 15px 0px;
+}
+.success{
+    background-color: green;
+}
+.error{
+    background-color: red;
+}
+.button{
+    background-color:black;
+    color: white;
+    border-width: 1px;
+    cursor: pointer;
+    padding: 8px;
+}
+.button:hover{
+    background-color: red;
+}
+.img-container{
+    width: 100px;
+    background-color: white;
+    border-radius: 100px;
+    align-items: center;
+    margin-top: 40px;
+}
+.user, .pass{
+    margin-right: 20px;
+}
